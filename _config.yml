@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alpha Chicago
+title: Chicago
+subtitle: Mayor Lori Lightfoot
 email: cityfeedback@cityofchicago.org
 description: >- # this means to ignore newlines until "baseurl:"
   A new digital experience for Chicago.

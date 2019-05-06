@@ -12,104 +12,23 @@
 #   links: primary
 #
 primary:
-  - text: I want to
-    links:
-      - text: Apply for
-        href: https://www.chicago.gov/city/en/svcs/iwantto.apply_for.html
-      - text: Check status of
-        href: https://www.chicago.gov/city/en/svcs/iwantto.check_status_of.html
-      - text: Find/Get
-        href: https://www.chicago.gov/city/en/svcs/iwantto.find_get.html
-      - text: Pay for/Buy
-        href: https://www.chicago.gov/city/en/svcs/iwantto.pay_for_buy.html
-      - text: Register
-        href: https://www.chicago.gov/city/en/svcs/iwantto.register.html
-      - text: Report/File
-        href: https://www.chicago.gov/city/en/svcs/iwantto.report_file.html
-      - text: Request
-        href: https://www.chicago.gov/city/en/svcs/iwantto.request.html
-      - text: Sign up for/volunteer
-        href: https://www.chicago.gov/city/en/svcs/iwantto.sign_up_for_volunteer.html
-  - text: Programs & initiatives
-    links:
-      - text: Affordable Chicago
-        href: /
-      - text: Consumer protection
-        href: /
-      - text: Education
-        href: /
-      - text: Environment
-        href: /
-      - text: Freedom of Information (FOIA)
-        href: /
-      - text: Grants
-        href: /
-      - text: Health & Wellness
-        href: /
-      - text: Housing
-        href: /
-      - text: Inspections, permitting & licensing
-        href: /
-      - text: Jobs
-        href: /
-      - text: Municipal marketing
-        href: /
-      - text: One Chicago
-        href: /
-      - text: Safety
-        href: /
-      - text: Sustain Chicago
-        href: /
-      - text: Taxes
-        href: /
-      - text: Technology
-        href: /
-      - text: Transparency
-        href: /
-      - text: Transportation
-        href: /
-      - text: Food Service Establishments
-        href: /
-  - text: Government
-    links:
-      - text: Elected officials
-        href: /
-      - text: Other city agencies
-        href: /
-      - text: Departments
-        href: /
-      - text: Legislation & regulation
-        href: /
-      - text: Other
-        href: /
-  - text: Legislation & regulation
-    links:
-      - text: Building code
-        href: /
-      - text: Municipal code
-        href: /
-      - text: Rules & regulations
-        href: /
-      - text: Zoning & land use
-        href: /
-  - text: About
-    links:
-      - text: Accessibility Home Page
-        href: /accessibility/
-      - text: Alternative Versions
-        href: '/accessibility/alternative-versions/'
+  - text: Mayor's Office
+    href: https://www.chicago.gov/city/en/depts/mayor.html
+  - text: CHI311
+    href: https://311.chicago.gov
+  - text: Events
+    href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
+  - text: Make payment
+    href: https://www.chicago.gov/city/en/svcs/iwantto.pay_for_buy.html
+  - text: Jobs
+    href: https://www.chicago.gov/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html
+
 
 secondary:
-  - text: 1
-    href: /doit
-  - text: 2
-    href: /fin
-  - text: 3
-    href: /cdph
-  - text: 4
-    href: /311
-  - text: 5
-    href: /chi311
+  - text: About
+    href: /about/
+  - text: Accessibility
+    href: /accessibility/
 
 
 footer:
