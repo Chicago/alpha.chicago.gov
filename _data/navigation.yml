@@ -12,17 +12,16 @@
 #   links: primary
 #
 primary:
-  - text: Mayor's Office
+  - text: Office of the Mayor
     href: https://www.chicago.gov/city/en/depts/mayor.html
   - text: CHI311
     href: https://311.chicago.gov
   - text: Events
     href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
-  - text: Make payment
-    href: https://www.chicago.gov/city/en/svcs/iwantto.pay_for_buy.html
+  - text: Make a payment
+    href: https://pay.chicago.gov/
   - text: Jobs
     href: https://www.chicago.gov/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html
-
 
 secondary:
   - text: About
@@ -32,13 +31,13 @@ secondary:
 
 
 footer:
+  - text: About
+    href: /about/
   - text: Accessibility
     href: /accessibility
+  - text: Colophon
+    href: /
   - text: Disclaimer
-    href: /
-  - text: Web standards
-    href: /
-  - text: Site credits
     href: /
   - text: Site map
     href: /
