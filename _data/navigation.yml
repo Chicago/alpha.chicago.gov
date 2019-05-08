@@ -22,6 +22,8 @@ primary:
     href: https://pay.chicago.gov/
   - text: Jobs
     href: https://www.chicago.gov/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html
+  - text: Connect
+    href: /connect
 
 secondary:
   - text: About

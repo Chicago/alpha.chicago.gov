@@ -11,7 +11,7 @@ We want everyone who visits chicago.gov to feel welcome and find the experience 
 
 To help us make chicago.gov a positive place for everyone, we've been using the Web Content Accessibility Guidelines (WCAG) 2.0. These guidelines explain how to make web content more accessible for people with disabilities, and user friendly for everyone.
 
-The guidelines have three levels of accessibility (A, AA and AAA). We’ve chosen Level AA as the target for the _Resilient Chicago_ website.
+The guidelines have three levels of accessibility (A, AA and AAA). We’ve chosen Level AA as the target for chicago.gov.
 
 ## How are we doing?
 
