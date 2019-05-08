@@ -36,17 +36,17 @@ footer:
   - text: Accessibility
     href: /accessibility
   - text: Colophon
-    href: /
+    href: /colophon
   - text: Design System
     href: /design-system
   - text: Disclaimer
-    href: /
+    href: https://www.chicago.gov/city/en/general/disclaimer.html
   - text: Site map
-    href: /
+    href: https://www.chicago.gov/city/en/general/sitemap.html
   - text: Press room
-    href: /
+    href: https://www.chicago.gov/city/en/depts/mayor/press_room.html
   - text: Feedback
-    href: /
+    href: https://www.surveymonkey.com/r/cocwebsitesurvey
   - text: Privacy
     href: https://www.chicago.gov/city/en/general/privacy.html
     external: true
