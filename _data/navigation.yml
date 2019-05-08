@@ -16,14 +16,14 @@ primary:
     href: https://www.chicago.gov/city/en/depts/mayor.html
   - text: CHI311
     href: https://311.chicago.gov
-  - text: Events
-    href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
-  - text: Make a payment
+  - text: Payments
     href: https://pay.chicago.gov/
   - text: Jobs
     href: https://www.chicago.gov/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html
   - text: Connect
     href: /connect
+  - text: Events
+    href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
 
 secondary:
   - text: About

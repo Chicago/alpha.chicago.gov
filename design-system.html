@@ -27,28 +27,49 @@ title: The Chicago Design System Online components
 <!-- USDS2.0? form stuff -->
 <div class="usa-grid">
   <div class="usa-width-one-whole">
+<h1>Form field examples</h1>
 
 
-<form>
-  <label for="input-type-text">Text input label</label>
-  <input id="input-type-text" name="input-type-text" type="text">
+<h2>Fieldset and legend</h2>
+<form class="usa-form">
+  <fieldset>
+    <legend>Name</legend>
+    <label for="title">Title <span class="usa-input-label-helper">(optional)</span></label>
+    <input class="usa-input-tiny" id="title" name="title" type="text">
 
-  <label for="input-focus">Text input focused</label>
-  <input class="usa-focus" id="input-focus" name="input-focus" type="text">
+    <label for="first-name">First name</label>
+    <input id="first-name" name="first-name" type="text" required aria-required="true">
 
-  <div class="usa-input-error">
-    <label class="usa-input-error-label" for="input-error">Text input error</label>
-    <span class="usa-input-error-message" id="input-error-message" role="alert">Helpful error message</span>
-    <input id="input-error" name="input-error" type="text" aria-describedby="input-error-message">
-  </div>
+    <label for="middle-name">Middle name <span class="usa-input-label-helper">(optional)</span></label>
+    <input id="middle-name" name="middle-name" type="text">
 
-  <label for="input-success">Text input success</label>
-  <input class="usa-input-success" id="input-success" name="input-success" type="text">
-
-  <label for="input-type-textarea">Text area label</label>
-  <textarea id="input-type-textarea" name="input-type-textarea"></textarea>
+    <label for="last-name">Last name</label>
+    <input id="last-name" name="last-name" type="text" required aria-required="true">
+  </fieldset>
 </form>
 
-</div>
+<h2>Text inputs</h2>
+
+    <form>
+      <label for="input-type-text">Text input label</label>
+      <input id="input-type-text" name="input-type-text" type="text">
+
+      <label for="input-focus">Text input focused</label>
+      <input class="usa-focus" id="input-focus" name="input-focus" type="text">
+
+      <div class="usa-input-error">
+        <label class="usa-input-error-label" for="input-error">Text input error</label>
+        <span class="usa-input-error-message" id="input-error-message" role="alert">Helpful error message</span>
+        <input id="input-error" name="input-error" type="text" aria-describedby="input-error-message">
+      </div>
+
+      <label for="input-success">Text input success</label>
+      <input class="usa-input-success" id="input-success" name="input-success" type="text">
+
+      <label for="input-type-textarea">Text area label</label>
+      <textarea id="input-type-textarea" name="input-type-textarea"></textarea>
+    </form>
+
+    </div>
 </div>
 
