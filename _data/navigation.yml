@@ -41,14 +41,10 @@ footer:
     href: /colophon
   - text: Design System
     href: /design-system
-  - text: Disclaimer
-    href: https://www.chicago.gov/city/en/general/disclaimer.html
-  - text: Site map
-    href: https://www.chicago.gov/city/en/general/sitemap.html
   - text: Press room
     href: https://www.chicago.gov/city/en/depts/mayor/press_room.html
   - text: Feedback
     href: https://www.surveymonkey.com/r/cocwebsitesurvey
   - text: Privacy
-    href: https://www.chicago.gov/city/en/general/privacy.html
+    href: /privacy
     external: true
