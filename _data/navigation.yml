@@ -26,15 +26,11 @@ primary:
     href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
 
 secondary:
-  - text: About
-    href: /about/
   - text: Accessibility
     href: /accessibility/
 
 
 footer:
-  - text: About
-    href: /about/
   - text: Accessibility
     href: /accessibility
   - text: Colophon
