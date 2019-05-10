@@ -26,9 +26,10 @@ primary:
     href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
 
 secondary:
-  - text: Accessibility
-    href: /accessibility/
+  - text: Contact
+    href: /#contact
 
+# https://www.chicago.gov/city/en/general/contact.html
 
 footer:
   - text: Accessibility
