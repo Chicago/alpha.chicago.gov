@@ -23,6 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: Chicago
 
+
 # Build settings
 markdown: kramdown
 remote_theme: Chicago/design-cds-jekyll@peterson
@@ -35,24 +36,25 @@ plugins:
 # You will need to setup a search account with search.gov
 # https://search.usa.gov/signup
 # Your search_site_handle value is from the search.gov settings page.
+# CDS note: We are using search site handle to simply flip search against chicago.gov's search interface on or off.
 
-# search_site_handle: searchgov-site-handle
+search_site_handle: searchgov-site-handle
 
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
-collections:
-  projects:
-    output: true
-  team:
-    output: true
+# collections:
+#   projects:
+#     output: true
+#   team:
+#     output: true
 
-projects:
-   layout: project
-   title: Title of project
-   permalink: /projects/link-to-project/
-   description: Project description.
-   large_image: /assets/img/hero.png
-   small_image: /assets/img/hero.png
+# projects:
+#    layout: project
+#    title: Title of project
+#    permalink: /projects/link-to-project/
+#    description: Project description.
+#    large_image: /assets/img/hero.png
+#    small_image: /assets/img/hero.png
 
 
 # Exclude from processing.
