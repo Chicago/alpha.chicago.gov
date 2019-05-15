@@ -19,7 +19,8 @@ email: cityfeedback@cityofchicago.org
 description: >- # this means to ignore newlines until "baseurl:"
   A new digital experience for Chicago.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://chicago.gov # the base hostname & protocol for your site, e.g. http://example.com
+name: alpha.chicago.gov
 google_analytics_ua: UA-29954971-24
 twitter_username: chicago311
 github_username: Chicago
