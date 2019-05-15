@@ -24,6 +24,8 @@ primary:
     href: /social
   - text: Events
     href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
+  - text: Livestream
+    href: /livestream
 
 secondary:
   - text: Contact
