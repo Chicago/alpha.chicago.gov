@@ -28,7 +28,7 @@ github_username: Chicago
 
 # Build settings
 markdown: kramdown
-remote_theme: Chicago/design-cds-jekyll@peterson
+remote_theme: Chicago/design-cds-jekyll
 
 plugins:
   - jekyll-feed
