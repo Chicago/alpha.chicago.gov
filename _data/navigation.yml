@@ -24,14 +24,12 @@ primary:
     href: /social
   - text: Events
     href: https://www.chicago.gov/city/en/depts/dca/supp_info/events.html
-  - text: Livestream
-    href: /livestream
+  - text: Our City Our Safety
+    href: https://www.chicago.gov/city/en/progs/summer-anti-violence-initiative.html
 
 secondary:
   - text: Contact
     href: /#contact
-
-# https://www.chicago.gov/city/en/general/contact.html
 
 footer:
   - text: Accessibility
