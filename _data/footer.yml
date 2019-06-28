@@ -58,7 +58,7 @@ contact:
     - text: Outside of Chicago call 312.744.5000
       href: tel:312-744-5000
     - text: Feedback form
-      href: http://webapps1.cityofchicago.org/eforms/contactUsForm
+      href: https://webapps1.chicago.gov/eforms/contactUsForm
       external: true
     - text: cityfeedback@cityofchicago.org
       href: mailto:cityfeedback@cityofchicago.org
